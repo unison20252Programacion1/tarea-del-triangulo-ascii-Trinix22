@@ -11,4 +11,4 @@ def triangulo_simetrico(m: int, s: str) -> str:
     print(s * i) 
 #Parte 2: Triangulo Decreciente 
   for i in range(m - 1, 0, -1):
-      prints(s * i)
+      print(s * i)
